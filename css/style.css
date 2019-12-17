@@ -1,0 +1,50 @@
+.container{
+    width: 700px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+body{
+    background: url(../img/carro.jpg)no-repeat;
+    -webkit-background-size:100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 
+}
+h2{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 10px #000000;
+}
+label{
+    display:block;
+    font-family: 'Bitter', serif;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+input{
+    display:block;
+    font-family: 'Bitter', serif;
+    width: 80%;
+    margin-left: 50px;
+}
+.this button{
+    margin-left: 40%;
+    margin-top: 10px;
+}
+.jumbotron{
+    background-color: rgb(75, 209, 176);
+    /*#9c9393*/
+}
+.patio{
+    background-color: white;
+    border-radius: 10px;
+}
+.rodape{
+    background-color: rgb(0, 0, 0);
+    margin-top: 55px;
+}
+.letra{
+    color: white;
+}
